@@ -1,5 +1,6 @@
 
-_Project Name (Team Project 1)_
+*Project Name (Team Project 1)*
+
 Project Overview
 
 
