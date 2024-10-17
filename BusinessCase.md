@@ -75,7 +75,7 @@ Outliers might exist in the **Income** and **Year\_Birth** columns. For example:
 
 **
 
-**Customer Segmentation & Targeting**
+**1.Customer Segmentation & Targeting**
 
 - **Which income groups are more likely to participate in marketing campaigns?**
   - By analyzing the relationship between income and campaign participation, you can identify the most responsive income segments and target them more effectively.
