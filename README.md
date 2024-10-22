@@ -3,6 +3,9 @@
 
 ### **Project Overview**
 Customer Personality Analysis is a comprehensive examination of a company's ideal customer base. It enables businesses to gain deeper insights into their customers' preferences, behaviors, and pain points. This understanding helps tailor products and services to meet the specific needs of different customer segments, improving customer satisfaction and driving business growth.
+Business Case : https://github.com/camellikna/Team_Project/blob/main/BusinessCase.md
+Code : https://github.com/camellikna/Team_Project/blob/main/src/understandingdata.ipynb
+Data : https://github.com/camellikna/Team_Project/blob/main/data/raw/marketing_campaign.csv
 
 ### **Team Members**
 - Camelia Najafi
