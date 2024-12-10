@@ -22,53 +22,36 @@ The project is divided into the following key phases:
 1. **Writing the Business Case**  
    Defining the objectives, scope, and value proposition of the customer personality analysis.
 
-2. Loading and Exploring Data
-3. 
+2. **Loading and Exploring Data**
    Try to get data and check it and find null value
    
-3.Data Cleaning and Feature Engineering
+3.**Data Cleaning and Feature Engineering**
 
   3.1 Remove redundant columns and Remove the two columns with 1 unique value
-  
   3.2 Convert the data type of Dt_Customer to DateTime
-  
   3.3 Calculate the Tenure (Days as Customer) of each customer
-  
       The newest customers' maximum Recency is 50 days from their last purchase date. Let's assume that NOW date (anchor_date = '2014-08-29') is 2 months (61 days) after their Dt_Customer date.
       
   3.4 Clean the invalid and Outlier Age
-  
   3.5 Handling outliers and missing values of Income
-  
   3.6 Segmenting Marital_Status and Education
-  
      Remove all the leading and trailing spaces in columns names
-     
      Segment 'Marital_Status' into two groups
-     
      Segment 'Education' into three groups
      
 
-4.Feature Engineering
-
+4.**Feature Engineering**
   4.1 Calculate Total spendings on all the products
-  
   4.2 Calculate Total number of purchases on all the products
-  
   4.3 Calculate Total accepted compaign offers
-  
   4.4 Calculate Total children living in the household
-  
   4.5 Rename columns for clarity
-  
        'MntWines': 'Wines','MntFruits':'Fruits','MntMeatProducts':'Meat','MntFishProducts':'Fish','MntSweetProducts':'Sweets','MntGoldProds':'Gold'
 
   4.6 Create a feature "Has_Child" to indicate parenthood status
-
         Analyze the correlations among the three spending features
 
-5.Exploratory Data Analysis and Data Visualization
-
+5.**Exploratory Data Analysis and Data Visualization**
   5.1 Analyze the correlations among the three spending features
   
 ![image](https://github.com/user-attachments/assets/5c44f908-0ef5-46ea-8a67-f7e931b2555a)
@@ -82,12 +65,7 @@ TotalNumPurchases and Spending are strongly correlated. To simplify the clusteri
 
 
 
-
-
-
-
-
-Clusters Conclusions
+**Clusters Conclusions**
 Stars (Cluster 0):
 
 Highest income (78k), highest spending (1430) and high purchasing frequency
