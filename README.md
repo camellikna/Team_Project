@@ -6,7 +6,7 @@ Customer Personality Analysis is a comprehensive examination of a company's idea
 
 Business Case : https://github.com/camellikna/Team_Project/blob/main/BusinessCase.md
 
-Code : https://github.com/camellikna/Team_Project/blob/main/src/understandingdata.ipynb
+Code :(https://github.com/camellikna/Team_Project/blob/main/src/Data_Preprocessing_Clustering.ipynb
 
 Data : https://github.com/camellikna/Team_Project/blob/main/data/raw/marketing_campaign.csv
 
