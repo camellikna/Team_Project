@@ -67,7 +67,6 @@ TotalNumPurchases and Spending are strongly correlated. To simplify the clusteri
 
 **Clusters Conclusions**
 Stars (Cluster 0):
-
 Highest income (78k), highest spending (1430) and high purchasing frequency
 More than 90% has no child, less than 10% has one child
 More than 60% has a partner
@@ -76,8 +75,8 @@ Occasionally accept promotions
 Show lowest number of web visits
 Span all ages
 High consumers for meat, wines, fish and sweets
-High Potential (Cluster 2):
 
+High Potential (Cluster 2):
 Majority are medium income (63k), some are high income, few below medium income
 Moderate spending (860) but highest purchasing frequency
 Majority have a parnter
@@ -85,8 +84,9 @@ More than 90% has one child, small portion has two children, very few has no chi
 Majority are mature and adult, very few young or senior people
 Mainly graduate or postgraduate
 Rarely accept promotions
-Need attention (Cluster 3):
 
+
+Need attention (Cluster 3):
 Medium income (42k) and low spending (170)
 Majority have two children, small portion have three children
 Majority are adult and mature
@@ -94,8 +94,8 @@ Majority have a partner
 Low purchasing frequency
 Occasionally made some purchases with a discount
 Do not accept promotions
-Leaky bucket (Cluster 1):
 
+Leaky bucket (Cluster 1):
 Low income (33k) and low spending (140)
 Majority have one child, some have no child
 Have relatively larger portions of adult and young people
