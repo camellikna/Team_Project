@@ -128,31 +128,31 @@ KMeans Clustering
 
 **7.1 Elbow Method to determine the optimal number of clusters**
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.001.png)
+![image](https://github.com/user-attachments/assets/1ca820c7-920e-45bc-8880-0d716c8b36cf)
 
 The elbow plot indicates that **the optimal number of clusters is 4.**
 
 **7.2 Perform K-means clustering**
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.002.png)
+![image](https://github.com/user-attachments/assets/d66dea94-047f-4e97-9f23-54bb7785d152)
 
 **7.3 Data Transformation for Customer Personality Analysis**
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.003.png)
+![image](https://github.com/user-attachments/assets/6f80955b-62bc-4652-992e-abdc1d26308e)
 
 **7.4 Customer Personality Analysis using Apriori Algorithm**
 
 **7.5 Clusters Analysis and Customers Profiling**
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.004.png)
+![image](https://github.com/user-attachments/assets/dfdd2d76-4669-4aaf-a216-a3030bc1aee7)
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.005.png)
+![image](https://github.com/user-attachments/assets/68598ae1-fd64-4907-a961-b79c68e0cda5)
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.006.png)
+![image](https://github.com/user-attachments/assets/cba00937-1f2a-4088-922a-65dd4053d540)
 
 **…**
 
-![](Aspose.Words.c7ed9e05-94d2-4280-ae28-095dd9c1cf12.007.png)
+![image](https://github.com/user-attachments/assets/b4d2b1d0-6672-4b07-9d21-593e4df26f6c)
 
 **And lots of Chart to show clustering that mention in our code**
 
