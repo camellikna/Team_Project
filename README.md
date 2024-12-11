@@ -1,5 +1,5 @@
 ﻿
-**Project Name: Customer Personality Analysis (Team Project 1)**
+**Project Name: Customer Personality Analysis **
 
 **Project Overview**
 
