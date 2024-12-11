@@ -102,7 +102,7 @@ KMeans Clustering
 
 
 
-The elbow plot indicates that the optimal number of clusters is 4.
+The elbow plot indicates thatÂ the optimal number of clusters is 4.
 
 7.2 Perform K-means clustering
 
@@ -119,7 +119,7 @@ The elbow plot indicates that the optimal number of clusters is 4.
 
 
 
-…
+â€¦
 
 
 And lots of Chart to show clustering that mention in our code
