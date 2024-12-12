@@ -239,5 +239,6 @@ This project highlights the importance of rigorous data analysis and collaborati
 
 By adhering to a structured timeline and leveraging team strengths, we achieved a robust analysis that underscores the value of teamwork, strategic planning, and technical expertise in delivering data-driven solutions.
 
-Video 
+** Video **
+
 Camelia Najafizadeh - https://vimeo.com/1038390371?share=copy#t=0
